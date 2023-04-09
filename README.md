@@ -2,7 +2,7 @@
 - 预览地址：[http://dianping.liuyanzhao.com](http://dianping.liuyanzhao.com) 已部署
 - 详细介绍地址：[https://liuyanzhao.com/shop/dianping.html](https://liuyanzhao.com/shop/dianping.html)
 - 代码地址：https://github.com/saysky/dianping 或 https://gitee.com/saysky/dianping
-- 完成时间：2022年3月5日
+- 该项目有1小时的代码讲解视频 2023
 
 # 一、功能介绍
 ## 用户
