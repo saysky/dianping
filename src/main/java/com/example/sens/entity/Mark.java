@@ -54,4 +54,3 @@ public class Mark extends Model<Mark> implements Serializable {
     private Date createTime;
 
 
-}

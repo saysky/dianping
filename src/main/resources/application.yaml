@@ -73,4 +73,3 @@ management:
   health:
     # 暂未用到ES 关闭其健康检查
     elasticsearch:
-      enabled: false

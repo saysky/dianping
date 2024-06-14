@@ -93,4 +93,3 @@ public class Store extends Model<Store> implements Serializable {
     private User user;
 
 
-}

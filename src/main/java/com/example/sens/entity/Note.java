@@ -47,4 +47,3 @@ public class Note extends Model<Note> implements Serializable {
      */
     private String title;
 
-}

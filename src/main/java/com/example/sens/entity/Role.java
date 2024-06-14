@@ -61,4 +61,3 @@ public class Role   extends Model<Role> implements Serializable  {
     @TableField(exist = false)
     private List<Permission> permissions;
 
-}

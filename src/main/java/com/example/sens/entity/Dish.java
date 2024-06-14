@@ -71,4 +71,3 @@ public class Dish extends Model<Dish> implements Serializable {
     @TableField(exist = false)
     private Store store;
 
-}

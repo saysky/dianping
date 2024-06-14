@@ -107,4 +107,3 @@ public class DishComment extends Model<DishComment> implements Serializable {
         }
         return "";
     }
-}

@@ -41,4 +41,3 @@ public class RolePermissionRef  extends Model<RolePermissionRef> implements Seri
         this.roleId = roleId;
         this.permissionId = permissionId;
     }
-}

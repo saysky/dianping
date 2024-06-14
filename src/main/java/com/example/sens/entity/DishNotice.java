@@ -59,4 +59,3 @@ public class DishNotice extends Model<DishNotice> implements Serializable {
     @TableField(exist = false)
     private Store store;
 
-}

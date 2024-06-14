@@ -112,4 +112,3 @@ public class StoreComment extends Model<StoreComment> implements Serializable {
         }
         return "";
     }
-}

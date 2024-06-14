@@ -74,4 +74,3 @@ public class Permission  extends Model<Permission> implements Serializable {
     @TableField(exist = false)
     private List<Permission> childPermissions;
 
-}
